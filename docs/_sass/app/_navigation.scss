@@ -4,9 +4,10 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: $dark;
+  background-color: #272D36;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
+  
 }
 
 .nav-link {
@@ -18,7 +19,7 @@ $nav-link-indentation-level: 1rem;
     position: absolute;
   }
   &.active {
-    background-color: $primary;
+    background-color: #E97167;
     color: $light;
   }
   &.disabled {
@@ -29,6 +30,7 @@ $nav-link-indentation-level: 1rem;
 .gdm-nav-level {
   &-home {
     padding-left: $nav-link-indentation-base;
+    color:white;
     > i {
       left: .5rem;
       opacity: .5;
@@ -42,6 +44,7 @@ $nav-link-indentation-level: 1rem;
     &::before {
       content: counter(nav-link-0, upper-roman);
       counter-increment: nav-link-0;
+      color: white;
     }
   }
   &-1 {
@@ -50,6 +53,7 @@ $nav-link-indentation-level: 1rem;
     &::before {
       content: counter(nav-link-1);
       counter-increment: nav-link-1;
+      color:white;
     }
   }
   &-2 {
