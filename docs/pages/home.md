@@ -10,5 +10,5 @@ title: Opdracht NMD-III
 Wie zijn we?
 ------------
 
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
- - «VOORNAAM» «FAMILIENAAM», 2CMO-?D
+ - Lore Heyvaert, 2CMO-PD
+ - Simon Tackaert, 2CMO-PD

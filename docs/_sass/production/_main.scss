@@ -1,3 +1,31 @@
 h1 {
     margin-top: 5%;
+    font-family: 'oswald';
+    margin-bottom: 30px;
+    font-size: 50px;
+    color: #E97167;
 }
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 22px;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #E97167;
+}
+h3 {
+    font-size: 25px;
+}
+
+p {
+    font-size: 17px;
+}
+
+ul {
+    font-size: 17px;
+}
+
+img[alt="beacon"] { 
+    max-width:  800px; 
+    display: block;
+  }
