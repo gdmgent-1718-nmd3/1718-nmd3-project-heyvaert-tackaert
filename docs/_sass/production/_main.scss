@@ -15,10 +15,13 @@ h2 {
 }
 h3 {
     font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #E97167;
 }
 
 p {
     font-size: 17px;
+    margin-bottom: 25px;
 }
 
 ul {
@@ -28,4 +31,30 @@ ul {
 img[alt="beacon"] { 
     max-width:  800px; 
     display: block;
+  }
+
+img[alt="gebruiker1"] { 
+    max-width: 400px; 
+    display: block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+  }
+
+img[alt="gebruiker2"] { 
+    max-width: 400px; 
+    display: block;
+    margin-bottom: 30px;
+  }
+
+img[alt="finale"] { 
+    max-width: 1000px; 
+    display: block;
+    margin-bottom: 30px;
+  }
+
+img[alt="mockupwatch1"] { 
+    max-width: 300px; 
+    margin-left: 90px;
+    display: block;
+    margin-bottom: 30px;
   }
