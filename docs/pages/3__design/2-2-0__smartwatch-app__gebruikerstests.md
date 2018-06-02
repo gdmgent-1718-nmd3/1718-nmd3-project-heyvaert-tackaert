@@ -24,12 +24,12 @@ Een suggestie van de persoon was om bij de 'pagina info' nog wat meer informatie
 
 ### Gebruikertest 2
 
-Het concept zat goed volgens persoon Fien. Het idee was duidelijk en nuttig voor in het museum. Fien is een tijdje geleden eens naar het museum gegaan en vond het zelf allemaal wat onoverzichtelijk. Het idee is dus zeker bruikbaar volgens haar. 
-Het enige waar ze wat last van had, was met het kijk fragment. Het was onduidelijk voor wat de twee icoontjes op de laatste pagina staan. 
+Persoon twee was er net iets meer mee weg dan de vorige persoon. Alle menu buttons waren duidelijk en het was ook makkelijk te vinden hoe je terug moet gaan. Bij deze wou de persoon voor een ander genre kiezen maar onze visuals waren niet zo breed uitgewerkt. Wanneer ze de route bevestigde, was de route duidelijker voor haar. Ze wist waar ze moest tikken om op het volgende scherm terecht te komen. Alleen was het niet duidelijk dat het instrument een pop-up venster was dat tevoorschijn kwam. Maar dit is moeilijk om te tonen via Adobe XD. De buttons om een filmpje te kijken of een fragment te beluisteren waren duidelijk. Het oogje was duidelijker dan een play button. Maar ook hierbij wachtte ze tot er een geluid uitkwam, maar ook hier heb ik moeten uitleggen dat dat niet kan via dat programma. Terugkeren naar home was geen probleem en ook het menu kon ze snel terugvinden.
 
 ### Aanpassingen
 
-- Het menu is aangepast van swipen naar tikken. 
-- Lay out in het algemeen is subtiel aangepast
-- Meer aandacht naar route. 
-- Kleine aanpassingen icoontjes/buttons
+- Duidelijkere icoontjes gemaakt
+- Navigatie onderaan pagina's (sneller heen en weer)
+- Beter lay out bij collectie
+
+
