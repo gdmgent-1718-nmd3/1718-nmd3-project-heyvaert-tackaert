@@ -4,12 +4,11 @@ $nav-link-indentation-base: 3rem;
 $nav-link-indentation-level: 1rem;
 
 .gdm-nav {
-  background-color: #272D36;
+  background-color:  #E97167;
   counter-reset: nav-link-0;
   flex-wrap: nowrap;
   
 }
-
 .nav-link {
   position: relative;
   &::before {
@@ -19,9 +18,10 @@ $nav-link-indentation-level: 1rem;
     position: absolute;
   }
   &.active {
-    background-color: #E97167;
+    background-color: #272D36;
     color: $light;
   }
+  
   &.disabled {
 
   }
@@ -31,16 +31,19 @@ $nav-link-indentation-level: 1rem;
   &-home {
     padding-left: $nav-link-indentation-base;
     color:white;
+
     > i {
       left: .5rem;
       opacity: .5;
       position: absolute;
       line-height: inherit;
+      
     }
   }
   &-0 {
     counter-reset: nav-link-1;
     padding-left: $nav-link-indentation-base;
+    color:white;
     &::before {
       content: counter(nav-link-0, upper-roman);
       counter-increment: nav-link-0;
@@ -50,15 +53,16 @@ $nav-link-indentation-level: 1rem;
   &-1 {
     counter-reset: nav-link-2;
     padding-left: $nav-link-indentation-base;
+    color:white;
     &::before {
       content: counter(nav-link-1);
       counter-increment: nav-link-1;
-      color:white;
     }
   }
   &-2 {
     counter-reset: nav-link-3;
     padding-left: $nav-link-indentation-base + 1 * $nav-link-indentation-level;
+    color:white;
     &::before {
       content: counter(nav-link-1) "." counter(nav-link-2);
       counter-increment: nav-link-2;
