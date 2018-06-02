@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Screen Designs
 ---
+![websitewireframe](/1718-nmd3-project-heyvaert-tackaert/assets/img/websitewireframe2.png "websitewireframe")

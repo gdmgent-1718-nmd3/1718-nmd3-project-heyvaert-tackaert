@@ -6,3 +6,4 @@ published: true
 # ─────────────────────
 title: Sitemap
 ---
+![sitemap](/1718-nmd3-project-heyvaert-tackaert/assets/img/sitemap.png "sitemap")
