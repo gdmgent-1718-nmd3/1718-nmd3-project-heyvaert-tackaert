@@ -4,7 +4,7 @@ permalink: design/smartwatch-app/screen-designs/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: Screen Designs
+title: Screen Design
 ---
 ![wirewatch](/1718-nmd3-project-heyvaert-tackaert/assets/img/visualswatch.png "wirewatch")
 

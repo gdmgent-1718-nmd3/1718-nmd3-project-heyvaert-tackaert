@@ -7,6 +7,6 @@ published: true
 title: Wireflow
 ---
 
-![wirewatch](/1718-nmd3-project-heyvaert-tackaert/assets/img/wireflowatch.jpg "wirewatch")
+![wirewatch](/1718-nmd3-project-heyvaert-tackaert/assets/img/wireflowatch.png "wirewatch")
 
 ![wirewatch](/1718-nmd3-project-heyvaert-tackaert/assets/img/wireflowatch2.jpg "wirewatch")

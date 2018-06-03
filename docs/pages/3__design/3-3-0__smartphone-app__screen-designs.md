@@ -7,3 +7,6 @@ published: true
 title: Screen Designs
 ---
 ![visualphone](/1718-nmd3-project-heyvaert-tackaert/assets/img/visualphone.png "visualphone")
+
+## Visual flow
+![finale](/1718-nmd3-project-heyvaert-tackaert/assets/img/finalevisualphone.png "finale")

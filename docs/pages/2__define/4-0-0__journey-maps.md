@@ -4,7 +4,7 @@ permalink: define/journey-maps/
 published: true
 # Custom Page Variables
 # ─────────────────────
-title: JOURNEY MAPS
+title: Journey Maps
 ---
 
 ![herman](/1718-nmd3-project-heyvaert-tackaert/assets/img/herman.png "herman")
@@ -47,9 +47,9 @@ Terugkeer   |Toiletbezoek,jas ophalen, eventueel eten in restaurant |Nog goed me
 
 Fase | Oppurtiniteiten | Pijnpunten
 ----------|----------|----------
-Aankomst    |Mogelijkheid om jas om te hangen, infoboekjes, zonder bezoek naar restaurant   |/
-Route bepalen   |Lift, audio tour, reservaties voor schoolbezoek    |Route zelf te bepalen zonder info, onduidelijkheden, weinig info over kamers 
-Bezoek  |Veel instrumenten, goed voor schooluitstappen  |Geen mogelijkheid om instrumenten te bespelen
-Terugkeer   |Dicht bij station, mogelijkheid om te eten |/
+Aankomst    |Kan werktas opbergen, toiletbezoek  |/
+Route bepalen   |Lift, audio tour,   |Geen kans om instrumenten te bespelen 
+Bezoek  |Je raakt je kinderen niet kwijt door opdeling museum  |Weinig info over wat er op welke verdieping aanwezig is
+Terugkeer   |Dicht bij station, mogelijkheid om te eten |Lift heeft lang stil gestaan.
 {:.table} 
 <br>
