@@ -3,26 +3,75 @@
 # ╚═══════════╝
 # Tijd in kwartieren (0.25 uur)
 -
+  time: 3.00
+  task: Analyse - Museumbezoek
+-
+  time: 1.00
+  task: Analyse - Mensen zoeken om vragen te stellen
+-
+  time: 1.50
+  task: Analyse - Analyse schrijven
+-
+  time: 2.00
+  task: Analyse - Journey maps
+-
+  time: 2.50
+  task: Concept - Concept bedenken + uitwerking
+-
+  time: 1.50
+  task: Concept - Elevator pitch
+-
   time: 0.25
-  task: Lorem ipsum sit dolor amet.
+  task: Concept - Ideaboard
 -
-  time: 0.5
-  task: Lorem ipsum sit dolor amet.
+  time: 2.50
+  task: Concept - Style tiles
 -
-  time: 0.75
-  task: Lorem ipsum sit dolor amet.
+  time: 1.50
+  task: Smartwatch - Inspiratie/opzoekingswerk
 -
-  time: 1
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: Smartwatch - Wireflow papier
 -
-  time: 1.25
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00 
+  task: Smartwatch - Paper prototype
 -
-  time: 1.5
-  task: Lorem ipsum sit dolor amet.
+  time: 1.00
+  task: Smartwatch - Gebruikerstesten
 -
-  time: 1.75
-  task: Lorem ipsum sit dolor amet.
+  time: 5.00
+  task: Smartwatch - Visual Design
 -
-  time: 100
-  task: Lorem ipsum sit dolor amet.
+  time: 2.00
+  task: Smartphone - Inspiratie/opzoekingswerk
+-
+  time: 1.00
+  task: Smartphone - Wireflow/prototype
+-
+  time: 1.00
+  task: Smartphone - Gebruikerstesten
+-
+  time: 3.00
+  task: Smartphone - Visual Design
+-
+  time: 2.00
+  task: Website - Wireframe
+-
+  time: 4.00
+  task: Website - Visual Design
+-
+  time: 1.50
+  task: Website - Prototype 
+-
+  time: 3.00
+  task: Mock Ups
+-
+  time: 3.00
+  task: UI Style guide 
+-
+  time: 5.00
+  task: Algemene aanpassingen
+
+
+
+
