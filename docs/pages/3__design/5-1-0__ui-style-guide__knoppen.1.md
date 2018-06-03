@@ -28,3 +28,7 @@ De eerste knop wordt gebruikt elke keer je naar een anders scherm wilt gaan. (ro
 ![icoon](/1718-nmd3-project-heyvaert-tackaert/assets/img/collectie.png "idee") |![icoon](/1718-nmd3-project-heyvaert-tackaert/assets/img/route.png "icoon") |![icoon](/1718-nmd3-project-heyvaert-tackaert/assets/img/info.png "icoon")   |![icoon](/1718-nmd3-project-heyvaert-tackaert/assets/img/contact.png "icoon") |![icoon](/1718-nmd3-project-heyvaert-tackaert/assets/img/pin.png "icoon")
 
 ![icoon2](/1718-nmd3-project-heyvaert-tackaert/assets/img/sluit.png "idee") |![icoon2](/1718-nmd3-project-heyvaert-tackaert/assets/img/geluiduit.png "icoon2") |![icoon2](/1718-nmd3-project-heyvaert-tackaert/assets/img/geluid.png "icoon2")   |![icoon2](/1718-nmd3-project-heyvaert-tackaert/assets/img/mail.png "icoon2") |![icoon2](/1718-nmd3-project-heyvaert-tackaert/assets/img/video.png "icoon2")
+
+## Extra info iconen
+
+![graphic](/1718-nmd3-project-heyvaert-tackaert/assets/img/graphiciconen.png "graphic")

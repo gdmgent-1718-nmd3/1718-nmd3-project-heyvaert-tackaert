@@ -26,11 +26,11 @@ Is de inhoud van het museum het belangrijkste voor u of spelen zaken als interac
 
 ## Conclusie
 
-Na deze interviewd en analyses kunnen we zeker zeggen dat er zeker nood is aan een app. De meeste bezoekers wisten niet hoe ze moesten stappen of of ze een route moesten volgen of niet. Na wat onzekerheid bekijken ze het plan dat omhoog hangt en gaan ze zo verder naar willekeurige verdiepingen/categoriën. 
+Na deze interviews en analyses kunnen we zeker zeggen dat er zeker nood is aan een app. De meeste bezoekers wisten niet hoe ze moesten stappen of of ze een route moesten volgen of niet. Na wat onzekerheid bekijken ze het plan dat omhoog hangt en gaan ze zo verder naar willekeurige verdiepingen/categoriën. 
 
-Wanneer we vroegen of ze veel musea bezochten of dit deden in hun vrije tijd dan antwoorden de meesten van niet. Twee mensen zeiden van wel omdat ze dat graag doen en dit een verrijking is van hun cultuur. De anderen antwoorden dat ze hier meestal geen tijd voor hadden of niet in elk museu geïnteresseerd zijn. 
+Wanneer we vroegen of ze veel musea bezochten of dit deden in hun vrije tijd dan antwoorden de meesten van niet. Twee mensen zeiden van wel omdat ze dat graag doen en dit een verrijking is van hun cultuur. De anderen antwoorden dat ze hier meestal geen tijd voor hadden of niet in elk museua geïnteresseerd zijn. 
 
-Wat iedereen aankaarte was dat er meer geluid moet aanwezig zijn in het museum. Het is een muziekinstrumentenmuseum en je kan niet meer dan vijf instrumeten beluisteren, wat een spijtige zaak is. Er een vrouw die met haar kinderen aanwezig was en ze vertelde dat haar kinderen ongeduldig werden na een half uur binnen, omdat er niet veel te doen valt. Haar kinderen vinden muziek zeer leuk, maar vonden dat er te weinig interactie was.
+Wat iedereen aankaarte was dat er meer geluid moet aanwezig zijn in het museum. Het is een muziekinstrumentenmuseum en je kan niet meer dan vijf instrumenten beluisteren, wat een spijtige zaak is. Er een vrouw die met haar kinderen aanwezig was en ze vertelde dat haar kinderen ongeduldig werden na een half uur binnen, omdat er niet veel te doen valt. Haar kinderen vinden muziek zeer leuk, maar vonden dat er te weinig interactie was.
 
 Te weinig te beleven of niet veel afwisseling. Met afwisseling bedoeld men verschillende soorten van werken. Zoals bijvoorbeeld bij een kunstmuseum willen ze verschillende soorten kunst zien en niet altijd dezelfde stijl of genre. Anderen gingen liever op restaurant of naar de bioscoop in plaats van een museum.
 
@@ -45,7 +45,7 @@ De app gaat voornamelijk nuttig zijn tijdens het museumbezoek zelf. Men kan op v
 -	Je kan zelf je route bepalen via een zelfgekozen genre
 -	Kom meer te weten over de instrumenten
 -	Bekijk een fragment over hoe het instrument bespeelt wordt
--	Luister een fragment hoe het insturment klinkt
+-	Luister een fragment hoe het instrument klinkt
 
 
 ## Usebility 
